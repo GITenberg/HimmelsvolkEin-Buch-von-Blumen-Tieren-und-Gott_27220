@@ -1,0 +1,38 @@
+_repo: HimmelsvolkEin-Buch-von-Blumen-Tieren-und-Gott_27220
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schreiber, Margarete
+    gutenberg_agent_id: '32552'
+    url: http://www.gutenberg.org/2009/agents/32552
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonsels, Waldemar
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '9680'
+    url: http://www.gutenberg.org/2009/agents/9680
+    wikipedia: http://de.wikipedia.org/wiki/Waldemar_Bonsels
+description: ''
+gutenberg_bookshelf:
+- DE Prosa
+- DE Kinderbuch
+gutenberg_issued: '2008-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27220'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Elves -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: 'Himmelsvolk: Ein Buch von Blumen, Tieren und Gott'
+url: http://www.gutenberg.org/ebooks/27220
